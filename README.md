@@ -7,4 +7,6 @@ This repository contains various results from personal projects and projects res
     <img src = "https://github.com/SweetzDreamz/PortofolioProjects/blob/main/Clustered%20HR%20Dashboard/Screenshot%20(394).png">
 
   </li>
+  <li><h1><a>https://github.com/SweetzDreamz/PortofolioProjects/tree/main/COVID%20Portofolio%20Project</a>COVID DASHBOARD</h1></li>
+  
 </ul>
